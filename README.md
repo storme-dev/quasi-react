@@ -4,7 +4,7 @@ Super lightweight react alternative
 # Installation
 ```
 git init
-git clone https://github.com/storme-dev/quasi-react.git
+git clone https://github.com/storme-dev/quasi-react.git .
 npm init
 npm install
 ```
