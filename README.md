@@ -5,6 +5,8 @@ Super lightweight react alternative
 ```
 git init
 git clone https://github.com/storme-dev/quasi-react.git
+npm init
+npm install
 ```
 
 ...or just download this repository and unzip it in your project folder
