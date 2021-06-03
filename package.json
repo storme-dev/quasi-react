@@ -21,7 +21,7 @@
     "webpack-cli": "^4.7.0"
   },
   "dependencies": {
-    "quasi-react": "^1.0.0",
+    "quasi-react": "^1.0.1",
     "quasi-react-store": "^1.0.1"
   }
 }
