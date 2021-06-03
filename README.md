@@ -11,4 +11,5 @@ git clone https://github.com/storme-dev/quasi-react.git
 
 ## How to use
 
-All your source code will be in ``src`` folder
+All your source code will be in ``src`` folder.
+To run your code, use ``npm start`` command
