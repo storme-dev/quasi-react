@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "quasi-react": "^1.0.0",
-    "quasi-react-store": "^1.0.0"
+    "quasi-react-store": "^1.0.1"
   }
 }
